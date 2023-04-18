@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-import DemoComponent from '../src/components/demo/DemoComponent';
+import DemoComponent from './DemoComponent';
 
 const demoComponent = new DemoComponent();
 
